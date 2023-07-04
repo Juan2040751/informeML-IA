@@ -1,5 +1,5 @@
 # InformeML-IA
-___________________________________________________________________________________________________________
+
 <h2>Participantes</h2>
 <ul>
 <li>Alejandro Rodríguez 2042954 <a>alejandro.marulanda@correounivalle.edu.co</a></li>
